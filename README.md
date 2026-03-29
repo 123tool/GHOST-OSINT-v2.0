@@ -15,15 +15,27 @@ GHOST-OSINT adalah alat intelijen sumber terbuka (OSINT) yang dirancang untuk me
 ```bash
 pkg update && pkg upgrade
 pkg install python git
-git clone [https://github.com/USERNAME_KAMU/GHOST-OSINT](https://github.com/USERNAME_KAMU/GHOST-OSINT)
-cd GHOST-OSINT
+git clone [https://github.com/123tool/GHOST-OSINT-v2.0.git](https://github.com/123tool/GHOST-OSINT-v2.0.git)
+cd GHOST-OSINT-v2.0
 pip install -r requirements.txt
 python main.py
 ```
 ### 2. Linux / Windows / macOS
 ​Pastikan sudah menginstal Python 3
 ```bash
-git clone [https://github.com/USERNAME_KAMU/GHOST-OSINT](https://github.com/USERNAME_KAMU/GHOST-OSINT)
-cd GHOST-OSINT
+git clone [https://github.com/123tool/GHOST-OSINT-v2.0.git](https://github.com/123tool/GHOST-OSINT-v2.0.git)
+cd GHOST-OSINT-v2.0
 pip install requests phonenumbers
 python main.py
+```
+
+## 📖 Cara Penggunaan
+​Jalankan script dengan perintah python main.py.
+​Pilih opsi menu (1-3).
+​Masukkan target (IP, Nomor HP, atau Username).
+​Hasil akan muncul secara real-time.
+
+## ​⚠️ Disclaimer
+​Alat ini dibuat untuk tujuan edukasi dan penelitian keamanan (OSINT). Pengembang (SPY-E & 123Tool) tidak bertanggung jawab atas penyalahgunaan alat ini untuk tindakan ilegal.
+
+***​Powered by SPY-E & 123Tool***
